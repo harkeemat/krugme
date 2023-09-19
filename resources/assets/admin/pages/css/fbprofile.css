@@ -1,0 +1,256 @@
+.portlet.light .list-separated {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	border-bottom: 2px solid #8B8B8B;
+}
+.profile-usermenu {
+	padding-bottom: 15px !important;
+	border-bottom: 2px solid #8B8B8B;
+}
+.rate_friend {
+	padding: 5px 0px 15px 0px;
+	border-bottom: 2px solid #8B8B8B;
+}
+.rating-container .caption {
+	display: block !important;
+	margin-top:5px !important;
+}
+.rating-md {
+	font-size: 2.50em !important;
+}
+.glyphicon.glyphicon-star-empty {
+	color: #474545;
+	font-size: 23px !important;
+}
+.glyphicon.glyphicon-star {
+	font-size: 23px !important;
+}
+.glyphicon.glyphicon-minus-sign {
+	color: #474545;
+	font-size: 18px !important;
+}
+.rating-container .caption .label {
+	font-size: 15px !important;
+	font-weight: 500 !important;
+	padding: 8px !important;
+}
+.rating-container .caption .label-default {
+	background-color: #474545;
+}
+.page-content {
+	border: 1px solid #8B8B8B;
+}
+.portlet.light > .portlet-title > .nav-tabs > li > a {
+	padding: 20px 9px 9px 9px!important;
+
+}
+.fileinput .thumbnail > img {
+    height: 150px !important;
+    width: 150px !important;
+}
+.profile-usertitle-name {
+	font-size: 19px !important;
+}
+.tab-content .control-label {
+	font-size: 12px;
+}
+.tab-content .form-control {
+	font-size: 12px;
+}
+.tab-content {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.profile-content {
+	text-align: left;
+}
+.bottom_friend {
+	width: 100%;
+	margin: 4px;
+}
+.profile-sidebar {
+	margin-right: 0px !important; 
+}
+.sale-product {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.portlet.light {
+	padding: 12px 10px 15px 0px !important;
+}
+.row.list-separated.profile-stat a:hover {
+	text-decoration: none;
+}
+.profile-usermenu {
+	text-align: left;
+}
+.primary-link {
+	font-weight: 400;
+	font-size: 10px;
+}
+.portlet.light.profile-sidebar-portlet {
+	margin-bottom: 0px;
+}
+.profile-sidebar {
+	border-right: 1px solid #A19999;
+}
+.main{
+	height: 700px;
+	width: 100%;
+}
+
+.group-register-form {
+	border: 1px solid #8B8B8B;
+	padding: 30px;
+}
+.form-title {
+	font-size: 24px;
+	margin-bottom: 20px;
+	color: #2367B9;
+}
+
+.form-control {
+	border: 1px solid #868383;
+	}
+.header{
+	height: 30%;
+	width: 100%;
+	border:1px solid black;
+	
+}
+.sidebar{
+	height: 65%;
+	width: 35.4%;
+	border:1px solid black;
+	float: left;
+}
+.footer{
+	height: 5%;
+	width: 100%;
+	background: black;
+	border:1px solid black;
+}
+
+#headerleft{
+	height: 56%;
+	margin-left: 10px;
+	margin-top: 15%;
+	width: 20%;
+	float: left;
+	border:1px solid black;
+}
+#headercenter{
+	height: auto;
+	font-weight: 500;
+	font-size: 22px;
+	margin-top: 23%;
+	width: 30%;
+	color:black;
+	float: left;
+	
+}
+
+.rejectbutton{
+	display: none;
+}
+.removebutton{
+	display: none;
+}
+#headerright {
+    margin-top: 28.7%;
+    width: 26%;
+    float: right;
+}
+#sidebar1{
+	height: 33%;
+	width: 100%;
+	background: white;
+	border:1px solid black;
+}
+#sidebar2{
+	height: 33%;
+	width: 100%;
+	background: white;
+	border:1px solid black;
+}
+#sidebar3{
+	height: 34%;
+	width: 100%;
+	background: white;
+	border:1px solid black;
+}
+.profileimg {
+	height: 100%;
+	width: 100%;
+}
+.profilekrug{
+	height: 50%;
+	width: 50%;
+	float: left;
+}
+#name{
+	font-size: 10px;
+}
+.dpkrugimg {
+	height: 80%;
+	width: 80%;
+}
+
+#footercontent {
+	color: #fff;
+	padding-top: 5px;
+}
+#detail{
+	float: left;
+	list-style: none;
+	font-size: 11px;
+	text-align: justify;
+	padding: 10px;
+}
+#detail li{
+	padding: 3px;
+}
+.friendbanner {
+	height: 20%;
+	width: 100%;
+	background: #0009;
+	color: white;
+	margin-top: 118px;
+	padding-top: 3px;
+	font-size: 16px;
+	position: sticky;
+	text-align: right;
+	padding-right: 10px;
+}
+.profilebanner {
+	height: 20%;
+	width: 100%;
+	background: #0009;
+	color: white;
+	margin-top: 118px;
+	padding-top: 3px;
+	font-size: 16px;
+	position: sticky;
+	text-align: right;
+	padding-right: 10px;
+}
+.latestbanner{
+	height: 20%;
+	width: 100%;
+	background: #0009;
+	color: white;
+	margin-top: 118px;
+	padding-top: 3px;
+	font-size: 16px;
+	position: sticky;
+	text-align: right;
+	padding-right: 10px;
+}
+@media (max-width:800px){
+	.tab-content {
+    padding-left: inherit;
+    padding-right: inherit;
+}
+}
+
+

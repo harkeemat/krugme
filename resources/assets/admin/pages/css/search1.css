@@ -1,0 +1,95 @@
+.col-md-12 {
+ padding: 25px;
+ background: #B4C0CC;
+}
+.login .content .login-form, .login .content .forget-form {
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+}
+.login .content .form-control::-moz-placeholder {
+  text-align: center;
+}
+.login .content .form-control {
+	border: none !important;
+	background-color: #fff;
+	height: 37px;
+}
+
+#searchBottom {
+	float: right;
+	padding-right: 39px;
+	padding-top: 7px;
+	font-size: 14px;
+}
+.btn.blue.btn-block {
+	background: #2C8EE3;
+	border:none;
+	padding: 8px 25px !important;
+
+}
+#footerHR {
+	margin: 50px 0px 0px 0px;
+	border: 0;
+	border-top: 1px solid #eee;
+	border-bottom: 0;
+}
+.login .content {
+	padding: 125px 0 280px 0;
+}
+
+.FooterLeft {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+#searchTop {
+	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+
+@media (max-width: 640px) {
+
+.col-md-12 {
+	padding: 32px;
+}
+#footerHR {
+	margin: 0px 0px 0px 0px;
+}
+.login .content {
+	padding: 40px 0 10px 0;
+}
+
+.FooterLeft {
+	padding-top: 10px;
+}
+#searchTop {
+	font-size: 13px;
+}
+.FooterRight {
+	margin-bottom: 10px;
+	float: none;
+	text-align: center;
+}
+.col-md-3.col-sm-3 {
+	padding-bottom: 13px;
+}
+}
+
+@media (min-width:641px) and (max-width: 1024px) {
+
+.col-md-12 {
+	padding: 20px 0px 60px 0px;
+}
+.login .content {
+	padding: 125px 10px 260px 10px;
+}
+#footerHR {
+	margin: 30px 0px 0px 0px;
+}
+}
+
+@media (min-width:641px) and (max-width: 1024px) and (orientation: landscape){
+	.col-md-12 {
+	padding: 20px 0px 25px 0px;
+}
+}

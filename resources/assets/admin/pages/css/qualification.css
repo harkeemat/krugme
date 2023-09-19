@@ -1,0 +1,119 @@
+
+.form-horizontal .form-group {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#krug_logo{
+font-size: 14px;
+font-weight: 700;
+color: #2367B9;
+}
+.ditro0 {
+	display: none;
+}
+.portlet.box.green > .portlet-title > .caption > i {
+	color: #050404 !important;
+}
+.portlet.box.green > .portlet-title > .caption {
+	color: #050404 !important;
+	font-size: 15px !important;
+}
+.portlet.box.green > .portlet-title {
+	background-color: #fff !important; 
+}
+.portlet{
+	margin-bottom: 0px !important;
+}
+.portlet > .portlet-body.green, .portlet.green {
+	background-color: #fff !important;
+}
+.portlet.box > .portlet-title {
+	border-bottom: 1px solid #090909 !important;
+}
+.portlet.box.green {
+	border: 0 !important;
+	
+}
+.form-control {
+    font-size: 12px !important;
+    }
+#form_sample_1 label{
+	font-size: 13px;
+}
+.qualification{
+	padding-left: 230px !important;
+	padding-right: 230px !important;
+
+}
+.qualification {
+	background-color: #fff;
+}
+.header_form {
+	width: 100%;
+	padding: 30px;
+	text-align: center;
+}
+.col-md-3{
+	width: 24%;
+}
+.fileinput .thumbnail > img {
+	height: 120px !important;
+	width: 120px !important;
+}
+.change_button{
+	padding: 4px 5px !important;
+	font-size: 11px !important;
+}
+.select_button{
+	padding: 5px 16px !important;
+	font-size: 12px !important;
+}
+.u_name {
+	width: 19% !important;
+	padding-right: 0px !important;
+}
+.aadhar{
+	padding-right: 10px;
+}
+.address{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+@media (max-width:800px){
+	.col-md-3 {
+	width: inherit;
+}
+.datepicker.datepicker-dropdown.dropdown-menu.datepicker-orient-left.datepicker-orient-top {
+	left: 40px !important;
+}
+.aadhar{
+	padding-right: inherit;
+}
+.u_name {
+	width: inherit !important;
+	padding-right: inherit;
+}
+.image{
+	text-align: center;
+}
+.checkbox-inline + .checkbox-inline, .radio-inline + .radio-inline {
+	 margin-left: 0px !important; 
+}
+.checkbox-inline, .radio-inline {
+	padding-left: 0px;
+}
+
+.qualification{
+	
+	padding-left: inherit !important;
+	padding-right: inherit !important;
+}
+
+.personal_details .form-group:nth-child(1) {
+	width: inherit;
+	float: none;
+}
+.personal_details .form-group:nth-child(9) {
+	width: inherit ;
+}
+	}
